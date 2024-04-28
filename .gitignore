@@ -1,3 +1,7 @@
 .venv
 .vscode
 .env
+*__pycache__*
+exports
+pandasai.log
+cache
