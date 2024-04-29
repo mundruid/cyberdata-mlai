@@ -6,3 +6,4 @@ exports
 pandasai.log
 cache
 html
+tmp
