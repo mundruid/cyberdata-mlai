@@ -1,6 +1,6 @@
 # cyberdata-mlai
 
-This repository includes a full example of the data processing cycle that includes:
+This repository includes research and findings demonstrating the data processing cycle that includes:
 
 - Reading, cleaning, and pre-processing raw data,
 - Exploratory Data Analysis (EDA) with statistical and graphical techniques,
@@ -9,8 +9,14 @@ This repository includes a full example of the data processing cycle that includ
 
 The contents of the repo are:
 
-- Code: Jupyter notebook named `cyberdata_mlai.ipynb`,
-- Data: included in directory `data`,
-- PackagesI `requirements.txt`. Can be installed using `pip install -r requirements.txt`.
+- Code: Jupyter notebooks are stored in `cyberdata_mlai`,
+- Data: included in directory `cyberdata_mlai/data`,
+- Packages: the file `requirements.txt` includes all required packages. These can be installed using `pip install -r requirements.txt`.
 
-You can follow the instructions in [vs-code-ml](https://github.com/mundruid/vs-code-mlhttps://github.com/mundruid/vs-code-ml/blob/main/vs_code_ml/dev_env_ml.ipynb) if you want to setup a development environment using VS Code and Jupyter. The Jupyter notebook can be used in Google Colab, but this has not been tested.
+## How to setup VS Code for Jupyter Notebooks
+
+Please follow the instructions in [vs-code-ml](https://github.com/mundruid/vs-code-ml/tree/main) if you want to setup a development environment using VS Code and Jupyter. The Jupyter notebooks can be used in Google Colab, however the packages needed will need to be installed from scratch.
+
+## Presentations related to repo
+
+- [Cackalackycon 2024](https://docs.google.com/presentation/d/1wPkWEvS-3Rn-RFp3CumPJQbYaOGXL88FCjV6uCCHaww/edit?usp=sharing)
