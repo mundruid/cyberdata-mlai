@@ -1,0 +1,14 @@
+Organizational-Unit: School of Information Technology and Electrical Engineering
+Source-Organization: University of Queensland
+Organization-Address: Brisbane, Queensland, Australia 4072
+Contact-Name: Mr Mohanad Sarhan
+Contact-Email: s4608505@student.uq.edu.au
+External-Description: UQRDM dataset created from MOHANAD-A4706
+Bagging-Date: 2023-05-11
+External-Identifier: 7ca78ae35fa4961a_MOHANAD_A4706
+Bag-Group-Identifier: 7ca78ae35fa4961a_MOHANAD_A4706
+Bag-Count: 1 of 1
+RAiD: https://hdl.handle.net/102.100.100/388313
+FOR Codes: [ "080303 - Computer System Security"
+Data Types: 
+Creator: { "firstName": "Mohanad", "surname": "Sarhan", "displayName": "Mr Mohanad Sarhan", "mail": "s4608505@student.uq.edu.au", "eduPersonPrincipalName": "s4608505@uq.edu.au", "eduPersonOrcid": "http://orcid.org/0000-0001-8597-6042"

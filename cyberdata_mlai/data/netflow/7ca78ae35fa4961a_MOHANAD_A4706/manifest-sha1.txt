@@ -1,0 +1,2 @@
+ee8ee11c7e08bee0fb3d8d196d5c5fd2520a44d2 data/NF-ToN-IoT.csv
+254533e6866a5dc0429c83397af5fc36c4a9a9f8 data/NetFlow_v1_Features.csv
