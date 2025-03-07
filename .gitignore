@@ -7,3 +7,10 @@ pandasai.log
 cache
 html
 tmp
+
+.DS_Store
+.python-version
+cyberdata_mlai/.DS_Store
+cyberdata_mlai/.deepeval_telemetry.txt
+cyberdata_mlai/data/df_summary_mal.png
+cyberdata_mlai/data/df_summary_mal.txt
