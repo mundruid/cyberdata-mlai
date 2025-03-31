@@ -20,3 +20,4 @@ Please follow the instructions in [vs-code-ml](https://github.com/mundruid/vs-co
 ## Presentations related to repo
 
 - [Cackalackycon 2024](https://docs.google.com/presentation/d/1wPkWEvS-3Rn-RFp3CumPJQbYaOGXL88FCjV6uCCHaww/edit?usp=sharing)
+- [SANS AI Cybersecurity Summit 2025](https://docs.google.com/presentation/d/1eSLm07qzJR4-pqVMNNmJZz_roAV_5NS4RMGM1Rj8zVg/edit?usp=sharing)
