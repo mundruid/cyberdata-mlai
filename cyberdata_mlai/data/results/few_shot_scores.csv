@@ -1,0 +1,13 @@
+Model,Metric,Score
+LLama-few-shot,Accuracy,0.785
+LLama-few-shot,Precision,0.8722222222222222
+LLama-few-shot,Recall,0.8870056497175142
+LLama-few-shot,F1,0.8795518207282913
+Mistral-few-shot,Accuracy,0.82
+Mistral-few-shot,Precision,0.8941176470588236
+Mistral-few-shot,Recall,0.8941176470588236
+Mistral-few-shot,F1,0.8941176470588236
+Phi-few-shot,Accuracy,0.83
+Phi-few-shot,Precision,0.8617021276595744
+Phi-few-shot,Recall,0.9529411764705882
+Phi-few-shot,F1,0.9050279329608939
